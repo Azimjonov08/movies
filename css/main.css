@@ -1,0 +1,89 @@
+.title-main {
+    margin-left: 450px;
+
+}
+
+.box {
+    width: 300px;
+    position: absolute;
+}
+
+.box-input {
+    margin-top: 18px;
+}
+
+.btnn {
+    margin-top: 18px;
+}
+
+.box-2 {
+    position: absolute;
+    margin-top: 250px;
+}
+
+.subtitle {
+    margin-top: 30px;
+}
+
+.box-3 {
+    position: absolute;
+    margin-left: 380px;
+    margin-bottom: 600px;
+}
+
+.cardd {
+    color: rgba(34, 131, 31, 0.603);
+    background-color: rgba(125, 184, 160, 0.808);
+    margin-top: 40px;
+    width: 750px;
+    margin-left: 380px;
+}
+
+.box-4 {
+    position: absolute;
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 380px;
+    gap: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.box4-btn {
+
+    padding: 4px;
+    width: 30px;
+    height: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.box-5 {
+    position: absolute;
+    bottom: -100px;
+    right: 30%;
+}
+
+.pag {
+    position: absolute;
+    margin-top: 470px;
+
+}
+
+.kalendar {
+    display: flex;
+    gap: 10px;
+}
+
+.yulduz {
+    display: flex;
+    gap: 10px;  
+}
